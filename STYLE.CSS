@@ -1,0 +1,51 @@
+tbody{
+    background-color: aquamarine;
+}
+thead{
+    background-color: rgb(208, 241, 21);
+}
+table td{
+    border-style: ridge;
+    border-radius: 3px;
+    border-color: black;
+}
+h1{
+    background-color: blueviolet;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    background-color: lightcyan;
+    border-radius: 5px;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+fieldset{
+    background-color: rgb(32, 142, 238);
+    border-radius: 5px;
+}
+input{
+    background-color: rgb(13, 104, 190);
+}
+form{
+    font-style: italic;
+    font-size: larger;
+    text-decoration-line: underline;
+}
+body{
+    background-color: rgb(6, 209, 199);
+}
+ul{
+    list-style-type: square;
+}
+ol{
+    list-style: upper-roman
+}
+
+.fondo{
+    background-color: rgb(13, 218, 233);
+    border-radius: 5px;
+}
